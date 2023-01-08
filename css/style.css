@@ -106,7 +106,15 @@ header .nav a:hover{
   font-weight: bolder;
 }
 
+.about .content h3{
+  color:var(--black);
+  font-size: 33px;
+}
 
+.about .content p{
+  color:#777;
+  font-size: 14px;
+}
 
 
 
