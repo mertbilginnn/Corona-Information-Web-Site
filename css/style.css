@@ -167,7 +167,34 @@ header .nav a:hover{
   font-size: 15px;
   color:var(--main-color);
 }
+.contact form{
+  padding:15px;
+  border-radius: 5px;
+  box-shadow: var(--box-shadow);
+}
 
+.contact form .box,
+.contact form textarea{
+  background:#f8f8fe;
+  border-radius: 5px;
+  font-size: 17px;
+  padding:10px;
+  margin:7px 0;
+  width: 100%;
+  text-transform: none;
+  color:var(--black);
+}
+
+.contact form textarea{
+  resize: none;
+  height: 200px;
+}
+
+.contact .map{
+  border-radius: 5px;
+  height: 100%;
+  width:100%;
+}
 
 
 
