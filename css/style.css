@@ -138,6 +138,39 @@ header .nav a:hover{
   font-size: 14px;
 }
 
+.experts .box{
+  width:260px;
+  background:#fff;
+  border-radius: 5px;
+  box-shadow: var(--box-shadow);
+  margin:5px;
+  padding:15px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.experts .box img{
+  background:#f8f8fe;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+.experts .box h3{
+  font-size: 22px;
+  margin:2px 0;
+  color:var(--black);
+}
+
+.experts .box span{
+  font-size: 15px;
+  color:var(--main-color);
+}
+
+
+
+
 
 /* telefon  */
 
