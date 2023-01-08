@@ -116,7 +116,27 @@ header .nav a:hover{
   font-size: 14px;
 }
 
+.prevent .box{
+  flex:1 1 300px;
+  background:#f8f8fe;
+  border-radius: 5px;
+  text-align: center;
+}
 
+.prevent .box img{
+  margin-bottom: 10px;
+  height: 70px;
+}
+
+.prevent .box h3{
+  color:var(--black);
+  font-size: 20px;
+}
+
+.prevent .box p{
+  color:var(--black);
+  font-size: 14px;
+}
 
 
 /* telefon  */
